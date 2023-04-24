@@ -3,7 +3,7 @@ This is a variation of the classic game of tic-tac-toe, where 2 players take tur
 putting X's and O's in a 3x3 grid, and the first to get 3 in a row (horizontally, vertically, or
 diagonally) wins.   
 
-The player could be human or computer.  
+The players could be human or computer.  
 
 In this version, there are 9 instances of the game being played
 simultaneously. Each turn, a player may make a single move in any one of the 9 game
